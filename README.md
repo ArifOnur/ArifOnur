@@ -3,8 +3,7 @@
 <h1 align="center">Hi 👋, I'm Arif Onur Onhan</h1>
 <h3 align="center">Software Test Engineer (Manuel || Automation || Mobile Testing)</h3>
 
-- 💬 Ask me about manuel and automation test **Java, Selenium Webdriver, Junit, TestNG, Cucumber**
-
+- 💬 Ask me about manuel and automation test 
 - 📫 How to reach me **aootester@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
