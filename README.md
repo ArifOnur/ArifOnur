@@ -1,4 +1,4 @@
-![MasterHead](https://miro.medium.com/v2/resize:fit:528/1*5-N5-g0v07mkU6Mf5zkgqA.png)
+![MasterHead](https://successive.tech/wp-content/uploads/2020/06/Manual-Vs-Automation-Testing-Blog-Banner-3-1.jpg)
 
 <h1 align="center">Hi 👋, I'm Arif Onur Onhan</h1>
 <h3 align="center">Software Test Engineer (Manuel || Automation || Mobile Testing)</h3>
